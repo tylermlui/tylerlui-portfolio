@@ -1,4 +1,6 @@
-# Tyler Lui's Portfolio
+# Tyler Lui's Portfolio 
+
+Access the site [here](https://tylerlui-portfolio.vercel.app/)
 
 Welcome to my portfolio. I’m a full-stack web developer with a focus on building efficient and impactful applications. I specialize in creating web solutions using modern technologies and a solid understanding of various tech stacks.
 
