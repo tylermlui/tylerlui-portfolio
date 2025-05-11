@@ -5,10 +5,21 @@
   --foreground: #171717;
 }
 
+@font-face {
+  font-family: 'CormorantGaramond';
+  src: url('/fonts/Cormorant_Garamond/static/CormorantGaramond-SemiBold.ttf') format('truetype');
+  font-weight: bold;
+  font-display: swap;
+}
+
+.font-cormorant {
+  font-family: 'CormorantGaramond', serif;
+}
+
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
+  --font-sans: "Cormorant", serif; /* Update here if used in Tailwind config */
   --font-mono: var(--font-geist-mono);
 }
 
